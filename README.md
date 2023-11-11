@@ -20,7 +20,7 @@ Welcome to my little corner of the coding world! I'm all about turning data into
 ## 💌 Let's Chat!
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/wadie-bishoy-b5ab4817a/)
-- Shoot me an email at [My Email](wadie.bishoy25@gmail.com)
+- Shoot me an email at [My Email](mailto:wadie.bishoy25@gmail.com)
 
 Feel free to wander through my projects and hit me up if you want to chat about data, tech, or life in general. Excited to connect with fellow data enthusiasts like you!
 
